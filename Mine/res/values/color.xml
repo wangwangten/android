@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundcolor">#3500ffff</color>
+    <color name="safefieldcolor">#6500ffff</color>
+    <color name="hilite">#ffffffff</color>
+	<color name="light">#64c6d4ef</color>
+	<color name="dark">#6456648f</color>
+	<color name="foreground">#ff000000</color>
+	<color name="selected">#64ff8000</color>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/keypad" 
+    android:orientation="vertical" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:stretchColumns="*" android:theme="@android:style/Theme.Dialog">
+<TableRow>
+    <Button
+        android:text="@string/Mark"
+        android:id="@+id/MarkButton"
+        android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    
+        />
+	<Button
+        android:text="@string/Dig"
+        android:id="@+id/DigButton"
+        android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        />
+	</TableRow>
+</TableLayout>
